@@ -2,7 +2,7 @@
 <aiml>
   <category>
     <pattern>*</pattern>
-    <template>I have no answer for that. Test</template>
+    <template>I have one answers for that. Test</template>
         <pattern>xyz</pattern>
     <template>I have no answer for</template>
   </category>
